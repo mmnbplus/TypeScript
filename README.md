@@ -6,4 +6,5 @@
 开始时间:2019年10月27号
 最后更新时间:2019年10月27号
     
-学习视频地址:https://www.bilibili.com/video/av38379328(其他人的视频)
+学习视频地址:https://www.bilibili.com/video/av38379328
+### (其他人的视频)
